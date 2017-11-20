@@ -1,0 +1,4 @@
+zooName
+cat vasa 10
+dog bobik 43
+tiger bilbo 26
